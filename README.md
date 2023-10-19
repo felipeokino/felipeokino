@@ -44,12 +44,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeokino&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
-&nbsp;&nbsp;
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=felipeokino&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <br/>
-<br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=240 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeokino&theme=radical&hide_border=fals" />
 </a>
