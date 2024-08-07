@@ -6,7 +6,7 @@
 
 #### Busco sempre aprender com meus erros e evoluir devagar e sempre.
 
-#### Estou sempre buscando novas tecnologias para aprender e me desenvolver, no momento estudando
+#### Estou sempre buscando novas tecnologias para aprender e me desenvolver, no momento estudando python e go
 
 ### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeokino) 
 ### [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipe1okino@live.com)
