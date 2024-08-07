@@ -42,21 +42,21 @@
 <br/>
 <br/>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeokino&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeokino&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=felipeokino&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=felipeokino&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height=240 align="left" width="100%" style='margim-bottom: 30px;' src="https://github-readme-streak-stats.herokuapp.com/?user=felipeokino&theme=neon&hide_border=false" />
 </a>
 <br/>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=240 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeokino&theme=radical&hide_border=fals" />
-</a>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
