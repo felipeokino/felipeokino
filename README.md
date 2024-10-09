@@ -4,7 +4,7 @@
 
 #### Curioso desde sempre em saber como as coisas funcionam, comecei desmontando minhas canetas na escola, agora um apaixonado pelo mundo da tecnologia.
 
-#### Busco sempre aprender com meus erros e evoluir devagar e sempre.
+#### Busco sempre aprender com meus erros e evoluir constantemente.
 
 #### Estou sempre buscando novas tecnologias para aprender e me desenvolver, no momento estudando python e go
 
