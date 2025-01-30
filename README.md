@@ -50,9 +50,9 @@
 </a>
 <br/>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=240 align="left" width="100%" style='margim-bottom: 30px;' src="https://github-readme-streak-stats.herokuapp.com/?user=felipeokino&theme=neon&hide_border=false" />
-</a>
+</a> -->
 <br/>
 
 
