@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Open%20To%20Work-forestgreen?style=for-the-badge)](https://drive.google.com/file/d/1IAP4Cemwx9N60h-vDprgxVfOzIqJx7US/view?usp=drive_link)
+<!-- [![](https://img.shields.io/badge/Open%20To%20Work-forestgreen?style=for-the-badge)](https://drive.google.com/file/d/1IAP4Cemwx9N60h-vDprgxVfOzIqJx7US/view?usp=drive_link) -->
 <h1 align="center">💫 Frontend Engineer <h1>
   
 
